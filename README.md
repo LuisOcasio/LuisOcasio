@@ -5,7 +5,7 @@ Check out my portfolio. https://www.luisocasio.com/
 
 **Find me online:**  
 
-[![Twitter: FullstackOg](https://twitter.com/_LuisOcasio)
+[![Twitter: FullstackOg](https://img.shields.io/twitter/follow/_LuisOcasio?style=social)](https://twitter.com/_LuisOcasio)
 [![Linkedin: luisocasio](https://img.shields.io/badge/-luisocasio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisocasio/)](https://www.linkedin.com/in/ocasio-perez/)
 [![GitHub imcodingideas](https://img.shields.io/github/followers/luisocasio?label=follow&style=social)](https://github.com/LuisOcasio)
 
